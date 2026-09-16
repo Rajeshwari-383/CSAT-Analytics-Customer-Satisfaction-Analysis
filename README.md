@@ -192,6 +192,7 @@ Billing-related queries represent the largest call-reason category.
 ---
 
 ### 📁 Project Structure
+
 CSAT-Analytics/
 │
 ├── Dataset/
@@ -230,11 +231,11 @@ CSAT-Analytics/
 
 ### Author
 
-##Rajeshwari
+Rajeshwari
 
-##Aspiring Data Analyst
+Aspiring Data Analyst
 
-##LinkedIn: www.linkedin.com/in/rajeshwari-pasunuri
+LinkedIn: www.linkedin.com/in/rajeshwari-pasunuri
 
 GitHub: Rajeshwari-383
 
